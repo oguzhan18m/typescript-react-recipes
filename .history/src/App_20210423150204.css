@@ -17,16 +17,13 @@
 }
 
 .recipes-container {
-  width: 100%;
   margin: 10px 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
 }
 
 .recipe {
-  width:25%;
+  width: 30%;
   height: 300px;
   overflow-y: scroll;
   padding: 25px;
